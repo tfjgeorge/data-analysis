@@ -1,0 +1,84 @@
+Theme,Macron,Le Pen,Fillon,Melenchon,Hamon,Dupont-Aignan,Lassalle,Poutou,Asselineau,Arthaud,Cheminade
+Fonctionnaires,-1,,-1,1,1,,1,,,1,
+Retraites,0,0.5,0.5,0.5,0.5,1,,1,0.5,0.5,1
+Chomage,0,,-1,1,1,1,,1,1,1,1
+Age retraite,0,1,-1,1,0,0,,1,,1,
+Minima sociaux,-1,,-1,1,0,,1,1,,1,0
+RSI,-1,1,1,1,1,-1,-1,,-1,,-1
+Augmenter SMIC,-1,-1,-1,1,1,-1,1,1,1,1,1
+Taxe d’habitation,-1,0,,1,,1,,,,,0
+Fiscalité succession,0,-1,-1,1,-0.5,-1,,,,,
+TVA,0,0,1,-0.5,-0.5,-0.5,,,,-1,1
+Fraude fiscale,0,0,,1,1,0,1,,1,,1
+Impot sociétés,-1,-1,-1,-0.5,-0.5,-0.5,,,-1,1,-1
+Impot revenu,,-0.5,,1,1,-0.5,-0.5,,,-1,
+CICE,0,0,0,-1,-0.5,0,0,-1,-0.5,-1,0
+ISF,-0.5,0,-1,1,1,-0.5,,,-0.5,1,-0.5
+Made in France,,1,,1,1,1,,,,,1
+Cotisations sociales,-1,-0.5,-1,1,,-1,-1,1,-0.5,1,-1
+Marché publics – France,0,1,0,0,0,1,0,0,1,0,1
+Marché publics – Europe,1,0,1,0,0,0,0,0,0,0,0
+Marché publics – ESS,0,0,0,1,1,0,0,0,0,0,0
+Uberisation,1,0,,-1,1,0,0,,-1,,0
+Licenciements,1,,1,-1,,,,-1,,-1,-1
+Logement social,0,-1,,1,1,-1,,0,1,0,1
+Encadrement des loyers,0,,,1,1,,,1,,1,-1
+Rémunérations grands patrons,0,,,1,1,1,0,1,,1,
+Durée travail,1,1,1,-1,0,1,,-1,,-1,0
+Loi travail,1,-1,1,-1,0,0,-1,-1,-1,-1,0
+PAC,0,0,0,0,0,0,0,0,0,0,0
+Dépenses publiques,-1,0,-1,1,1,1,,1,,1,
+AAC,0,0,0,0,0,0,0,0,0,0,0
+Outre mer – taxes importations,,-1,,1,,-1,,,,,1
+Signes religieux,0,-1,,,,-1,,1,,,0
+AME,1,-1,-1,1,1,-1,,,,,1
+Quotas d’immigration,-1,1,1,-1,-1,1,,-1,0,-1,-1
+Droit d’asile,0,-1,0,0.5,0.5,-1,,1,,1,0
+Contrôle frontières euro,0.5,1,0.5,-0.5,,1,,-1,,-1,0.5
+Regroupement familial,0,-1,-1,1,0,-1,,1,0,1,0
+Droit du sol,1,-1,-0.5,1,,-0.5,,,0,,1
+Schengen,1,-1,0,0,,-1,,,,,1
+Personnes agées et dépendance,1,1,1,1,1,1,1,1,,1,1
+Sécu sociale,-1,-1,-1,1,0,0,1,1,1,1,1
+Déserts médicaux,-1,0,-1,1,0,-1,1,1,,,1
+Fin de vie,0,0,0,1,1,-1,,1,,,0
+PMA,1,-1,-1,1,1,,1,1,,,1
+Allocations familliales,0,0,0,0,0,0,0,0,0,0,0
+Cannabis,0,-1,-1,1,1,-1,0,1,,,-1
+Apprentissage,0,0,0,0,0,0,0,0,0,0,0
+Formation profesionnelle,0,0,0,0,0,0,0,0,0,0,0
+Service civique,1,1,0,0.5,0,0.5,0.5,-1,,,1
+Réforme du collège,0,0,0,0,0,0,0,0,0,0,0
+Réforme des rythmes scolaires,0,-1,0,-1,1,-1,-1,-1,,,-1
+Priorité pour l’école primaire,-1,,-1,1,1,-1,-1,1,-1,1,
+Accueil petite enfance,1,0,0,1,1,1,,,,1,1
+Russie,-1,1,1,1,-1,1,,,1,,1
+Etat d’urgence,,,-1,1,0,,1,1,1,1,1
+Déchéance de nationalité,-1,1,1,-1,-1,1,-1,-1,,-1,-1
+Justice des mineurs,1,-1,-1,1,1,-1,,,,,1
+Prison,1,1,1,-1,-1,1,,,-1,,1
+Effectifs police,1,1,1,1,1,1,1,-1,1,,1
+OTAN,1,0,,-1,1,0,0,,-1,,-1
+Budget défense,1,1,1,0,1,1,0,-1,1,,1
+ER,1,0,1,1,1,0,0,1,,,-1
+Nucléaire,0,1,1,-1,-1,1,-1,-1,,,1
+Souffrance animale,0,0,0,0,0,0,0,0,0,0,0
+Diesel,1,-1,0,1,1,,1,,,,0
+Fiscalité écologique,-1,,-1,1,1,,,,1,,
+TAFTA,1,-1,-1,-1,-1,-1,-1,-1,,-1,-1
+Harmonisation fiscale UE,1,,1,1,1,,,1,-1,,1
+Respect des 3% UE,-1,1,-1,1,0,1,1,1,1,1,
+Travailleurs détachés,-1,0,-1,0,-1,0,0,1,0,,0
+Euro,1,-1,1,0,1,0,,,-1,,-1
+UE,1,-1,1,0,1,-0.5,-0.5,0,-1,0,-0.5
+Réforme territoriale,1,1,1,-1,0,-1,-1,,-1,,-1
+Art 49.3,1,1,1,-1,-1,1,,-1,-1,,1
+Conditions d’inéligibilité,0,,1,1,1,0,0,,1,1,0
+Non-cumul,1,,0,1,1,,,1,1,,1
+Droit de vote étrangers locales,-1,-1,-1,1,0,-1,,1,,,1
+Démocratie directe,,1,0,1,1,1,1,,1,0.5,0.5
+Vote blanc,-1,-1,-1,1,0,1,1,-1,1,1,1
+Parlementaires,0,0,1,-1,1,0,,0,0,,0
+Mode de scrutin,0,0,,1,0,-1,0,1,,,0
+Durée du mandat,0,1,0,,1,1,0,,0,,1
+Budget culture,0,,,1,1,1,,,,,1
